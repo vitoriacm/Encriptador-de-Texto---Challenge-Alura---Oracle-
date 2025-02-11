@@ -41,3 +41,13 @@ Se você quiser modificar o algoritmo ou a interface do usuário, pode editar os
 script.js: Contém a lógica de criptografia e descriptografia.
 style.css: Contém os estilos para a interface do usuário.
 index.html: O arquivo HTML principal para a interface.
+
+
+## Screenshots
+
+**Desktop:**
+
+![Decodificador - 1 Desktop](https://github.com/user-attachments/assets/d95c8466-d1d2-4a61-b02b-520e370da78b)
+![Decodificador - 2 Desktop](https://github.com/user-attachments/assets/c717b76e-f628-4d93-9210-31d4bd9b0deb)
+
+
